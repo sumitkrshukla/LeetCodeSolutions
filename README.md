@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sumitkrshukla/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/sumitkrshukla/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitkrshukla/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumitkrshukla/LeetCodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sumitkrshukla/LeetCodeSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sumitkrshukla/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sumitkrshukla/LeetCodeSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/sumitkrshukla/LeetCodeSolutions/tree/master/1929-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sumitkrshukla/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
